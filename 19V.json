@@ -1,0 +1,821 @@
+[
+  {
+    "hero_id": 1,
+    "hero_name": "take",
+    "faction": "Tower",
+    "level": 17,
+    "castle_location": "Citadel of the Eternal Flame",
+    "army": [
+      {
+        "unit_name": "how",
+        "quantity": 58,
+        "experience": 426,
+        "current_location": "Citadel of the Eternal Flame"
+      },
+      {
+        "unit_name": "enough",
+        "quantity": 10,
+        "experience": 317,
+        "current_location": "Citadel of the Eternal Flame"
+      },
+      {
+        "unit_name": "maintain",
+        "quantity": 51,
+        "experience": 267,
+        "current_location": "Sylvan Grove Outpost"
+      },
+      {
+        "unit_name": "collection",
+        "quantity": 45,
+        "experience": 110,
+        "current_location": "Sylvan Grove Outpost"
+      },
+      {
+        "unit_name": "message",
+        "quantity": 34,
+        "experience": 402,
+        "current_location": "Shadowkeep Stronghold"
+      }
+    ]
+  },
+  {
+    "hero_id": 2,
+    "hero_name": "resource",
+    "faction": "Rampart",
+    "level": 16,
+    "castle_location": "Castle Ironclad",
+    "army": [
+      {
+        "unit_name": "thousand",
+        "quantity": 64,
+        "experience": 476,
+        "current_location": "Citadel of the Eternal Flame"
+      },
+      {
+        "unit_name": "dark",
+        "quantity": 43,
+        "experience": 459,
+        "current_location": "Stormwatch Tower"
+      },
+      {
+        "unit_name": "group",
+        "quantity": 44,
+        "experience": 0,
+        "current_location": "Castle Ironclad"
+      },
+      {
+        "unit_name": "although",
+        "quantity": 14,
+        "experience": 280,
+        "current_location": "Shadowkeep Stronghold"
+      }
+    ]
+  },
+  {
+    "hero_id": 3,
+    "hero_name": "order",
+    "faction": "Rampart",
+    "level": 18,
+    "castle_location": "Citadel of the Eternal Flame",
+    "army": [
+      {
+        "unit_name": "language",
+        "quantity": 72,
+        "experience": 197,
+        "current_location": "Stormwatch Tower"
+      },
+      {
+        "unit_name": "foot",
+        "quantity": 65,
+        "experience": 477,
+        "current_location": "Castle Ironclad"
+      },
+      {
+        "unit_name": "recognize",
+        "quantity": 22,
+        "experience": 81,
+        "current_location": "Castle Ironclad"
+      },
+      {
+        "unit_name": "sea",
+        "quantity": 22,
+        "experience": 193,
+        "current_location": "Sylvan Grove Outpost"
+      }
+    ]
+  },
+  {
+    "hero_id": 4,
+    "hero_name": "edge",
+    "faction": "Inferno",
+    "level": 16,
+    "castle_location": "Shadowkeep Stronghold",
+    "army": [
+      {
+        "unit_name": "anything",
+        "quantity": 41,
+        "experience": 238,
+        "current_location": "Castle Ironclad"
+      },
+      {
+        "unit_name": "difference",
+        "quantity": 80,
+        "experience": 205,
+        "current_location": "Citadel of the Eternal Flame"
+      },
+      {
+        "unit_name": "stock",
+        "quantity": 31,
+        "experience": 420,
+        "current_location": "Citadel of the Eternal Flame"
+      }
+    ]
+  },
+  {
+    "hero_id": 5,
+    "hero_name": "child",
+    "faction": "Inferno",
+    "level": 1,
+    "castle_location": "Stormwatch Tower",
+    "army": [
+      {
+        "unit_name": "term",
+        "quantity": 17,
+        "experience": 275,
+        "current_location": "Citadel of the Eternal Flame"
+      },
+      {
+        "unit_name": "travel",
+        "quantity": 28,
+        "experience": 164,
+        "current_location": "Castle Ironclad"
+      },
+      {
+        "unit_name": "require",
+        "quantity": 91,
+        "experience": 118,
+        "current_location": "Citadel of the Eternal Flame"
+      },
+      {
+        "unit_name": "she",
+        "quantity": 18,
+        "experience": 19,
+        "current_location": "Citadel of the Eternal Flame"
+      }
+    ]
+  },
+  {
+    "hero_id": 6,
+    "hero_name": "sell",
+    "faction": "Castle",
+    "level": 13,
+    "castle_location": "Shadowkeep Stronghold",
+    "army": [
+      {
+        "unit_name": "population",
+        "quantity": 94,
+        "experience": 159,
+        "current_location": "Citadel of the Eternal Flame"
+      },
+      {
+        "unit_name": "act",
+        "quantity": 27,
+        "experience": 141,
+        "current_location": "Sylvan Grove Outpost"
+      },
+      {
+        "unit_name": "kid",
+        "quantity": 52,
+        "experience": 451,
+        "current_location": "Shadowkeep Stronghold"
+      }
+    ]
+  },
+  {
+    "hero_id": 7,
+    "hero_name": "probably",
+    "faction": "Rampart",
+    "level": 3,
+    "castle_location": "Citadel of the Eternal Flame",
+    "army": [
+      {
+        "unit_name": "coach",
+        "quantity": 74,
+        "experience": 72,
+        "current_location": "Citadel of the Eternal Flame"
+      },
+      {
+        "unit_name": "pattern",
+        "quantity": 92,
+        "experience": 179,
+        "current_location": "Castle Ironclad"
+      },
+      {
+        "unit_name": "once",
+        "quantity": 31,
+        "experience": 476,
+        "current_location": "Castle Ironclad"
+      },
+      {
+        "unit_name": "become",
+        "quantity": 53,
+        "experience": 56,
+        "current_location": "Castle Ironclad"
+      },
+      {
+        "unit_name": "bill",
+        "quantity": 37,
+        "experience": 356,
+        "current_location": "Sylvan Grove Outpost"
+      }
+    ]
+  },
+  {
+    "hero_id": 8,
+    "hero_name": "economy",
+    "faction": "Castle",
+    "level": 20,
+    "castle_location": "Citadel of the Eternal Flame",
+    "army": [
+      {
+        "unit_name": "drop",
+        "quantity": 89,
+        "experience": 159,
+        "current_location": "Citadel of the Eternal Flame"
+      },
+      {
+        "unit_name": "north",
+        "quantity": 41,
+        "experience": 303,
+        "current_location": "Castle Ironclad"
+      },
+      {
+        "unit_name": "act",
+        "quantity": 49,
+        "experience": 190,
+        "current_location": "Sylvan Grove Outpost"
+      },
+      {
+        "unit_name": "common",
+        "quantity": 45,
+        "experience": 342,
+        "current_location": "Stormwatch Tower"
+      }
+    ]
+  },
+  {
+    "hero_id": 9,
+    "hero_name": "push",
+    "faction": "Fortress",
+    "level": 14,
+    "castle_location": "Sylvan Grove Outpost",
+    "army": [
+      {
+        "unit_name": "serve",
+        "quantity": 98,
+        "experience": 152,
+        "current_location": "Citadel of the Eternal Flame"
+      },
+      {
+        "unit_name": "represent",
+        "quantity": 37,
+        "experience": 372,
+        "current_location": "Stormwatch Tower"
+      },
+      {
+        "unit_name": "theory",
+        "quantity": 14,
+        "experience": 446,
+        "current_location": "Castle Ironclad"
+      },
+      {
+        "unit_name": "general",
+        "quantity": 52,
+        "experience": 281,
+        "current_location": "Citadel of the Eternal Flame"
+      },
+      {
+        "unit_name": "tell",
+        "quantity": 95,
+        "experience": 300,
+        "current_location": "Shadowkeep Stronghold"
+      }
+    ]
+  },
+  {
+    "hero_id": 10,
+    "hero_name": "shake",
+    "faction": "Inferno",
+    "level": 10,
+    "castle_location": "Citadel of the Eternal Flame",
+    "army": [
+      {
+        "unit_name": "eight",
+        "quantity": 50,
+        "experience": 351,
+        "current_location": "Stormwatch Tower"
+      },
+      {
+        "unit_name": "cell",
+        "quantity": 83,
+        "experience": 355,
+        "current_location": "Stormwatch Tower"
+      },
+      {
+        "unit_name": "sign",
+        "quantity": 99,
+        "experience": 208,
+        "current_location": "Castle Ironclad"
+      },
+      {
+        "unit_name": "religious",
+        "quantity": 69,
+        "experience": 436,
+        "current_location": "Sylvan Grove Outpost"
+      },
+      {
+        "unit_name": "reduce",
+        "quantity": 90,
+        "experience": 445,
+        "current_location": "Castle Ironclad"
+      }
+    ]
+  },
+  {
+    "hero_id": 11,
+    "hero_name": "ever",
+    "faction": "Tower",
+    "level": 15,
+    "castle_location": "Sylvan Grove Outpost",
+    "army": [
+      {
+        "unit_name": "question",
+        "quantity": 44,
+        "experience": 268,
+        "current_location": "Citadel of the Eternal Flame"
+      },
+      {
+        "unit_name": "rise",
+        "quantity": 72,
+        "experience": 52,
+        "current_location": "Shadowkeep Stronghold"
+      },
+      {
+        "unit_name": "put",
+        "quantity": 45,
+        "experience": 23,
+        "current_location": "Shadowkeep Stronghold"
+      }
+    ]
+  },
+  {
+    "hero_id": 12,
+    "hero_name": "experience",
+    "faction": "Tower",
+    "level": 18,
+    "castle_location": "Castle Ironclad",
+    "army": [
+      {
+        "unit_name": "for",
+        "quantity": 12,
+        "experience": 411,
+        "current_location": "Stormwatch Tower"
+      },
+      {
+        "unit_name": "room",
+        "quantity": 68,
+        "experience": 468,
+        "current_location": "Shadowkeep Stronghold"
+      },
+      {
+        "unit_name": "either",
+        "quantity": 17,
+        "experience": 290,
+        "current_location": "Shadowkeep Stronghold"
+      }
+    ]
+  },
+  {
+    "hero_id": 13,
+    "hero_name": "thousand",
+    "faction": "Fortress",
+    "level": 11,
+    "castle_location": "Shadowkeep Stronghold",
+    "army": [
+      {
+        "unit_name": "support",
+        "quantity": 47,
+        "experience": 186,
+        "current_location": "Shadowkeep Stronghold"
+      },
+      {
+        "unit_name": "live",
+        "quantity": 92,
+        "experience": 456,
+        "current_location": "Sylvan Grove Outpost"
+      },
+      {
+        "unit_name": "several",
+        "quantity": 25,
+        "experience": 484,
+        "current_location": "Castle Ironclad"
+      },
+      {
+        "unit_name": "increase",
+        "quantity": 68,
+        "experience": 299,
+        "current_location": "Citadel of the Eternal Flame"
+      }
+    ]
+  },
+  {
+    "hero_id": 14,
+    "hero_name": "area",
+    "faction": "Tower",
+    "level": 3,
+    "castle_location": "Sylvan Grove Outpost",
+    "army": [
+      {
+        "unit_name": "word",
+        "quantity": 99,
+        "experience": 260,
+        "current_location": "Citadel of the Eternal Flame"
+      },
+      {
+        "unit_name": "account",
+        "quantity": 100,
+        "experience": 399,
+        "current_location": "Shadowkeep Stronghold"
+      },
+      {
+        "unit_name": "item",
+        "quantity": 62,
+        "experience": 162,
+        "current_location": "Sylvan Grove Outpost"
+      },
+      {
+        "unit_name": "the",
+        "quantity": 95,
+        "experience": 215,
+        "current_location": "Stormwatch Tower"
+      }
+    ]
+  },
+  {
+    "hero_id": 15,
+    "hero_name": "they",
+    "faction": "Rampart",
+    "level": 11,
+    "castle_location": "Castle Ironclad",
+    "army": [
+      {
+        "unit_name": "during",
+        "quantity": 85,
+        "experience": 424,
+        "current_location": "Shadowkeep Stronghold"
+      },
+      {
+        "unit_name": "draw",
+        "quantity": 67,
+        "experience": 166,
+        "current_location": "Stormwatch Tower"
+      },
+      {
+        "unit_name": "box",
+        "quantity": 67,
+        "experience": 64,
+        "current_location": "Shadowkeep Stronghold"
+      },
+      {
+        "unit_name": "street",
+        "quantity": 35,
+        "experience": 294,
+        "current_location": "Stormwatch Tower"
+      }
+    ]
+  },
+  {
+    "hero_id": 16,
+    "hero_name": "single",
+    "faction": "Tower",
+    "level": 1,
+    "castle_location": "Castle Ironclad",
+    "army": [
+      {
+        "unit_name": "play",
+        "quantity": 15,
+        "experience": 298,
+        "current_location": "Shadowkeep Stronghold"
+      },
+      {
+        "unit_name": "college",
+        "quantity": 25,
+        "experience": 426,
+        "current_location": "Shadowkeep Stronghold"
+      },
+      {
+        "unit_name": "agent",
+        "quantity": 22,
+        "experience": 455,
+        "current_location": "Castle Ironclad"
+      }
+    ]
+  },
+  {
+    "hero_id": 17,
+    "hero_name": "someone",
+    "faction": "Fortress",
+    "level": 12,
+    "castle_location": "Sylvan Grove Outpost",
+    "army": [
+      {
+        "unit_name": "southern",
+        "quantity": 66,
+        "experience": 189,
+        "current_location": "Castle Ironclad"
+      },
+      {
+        "unit_name": "building",
+        "quantity": 64,
+        "experience": 340,
+        "current_location": "Citadel of the Eternal Flame"
+      },
+      {
+        "unit_name": "these",
+        "quantity": 35,
+        "experience": 51,
+        "current_location": "Sylvan Grove Outpost"
+      },
+      {
+        "unit_name": "of",
+        "quantity": 72,
+        "experience": 330,
+        "current_location": "Castle Ironclad"
+      },
+      {
+        "unit_name": "gun",
+        "quantity": 100,
+        "experience": 413,
+        "current_location": "Castle Ironclad"
+      }
+    ]
+  },
+  {
+    "hero_id": 18,
+    "hero_name": "black",
+    "faction": "Fortress",
+    "level": 12,
+    "castle_location": "Sylvan Grove Outpost",
+    "army": [
+      {
+        "unit_name": "myself",
+        "quantity": 35,
+        "experience": 400,
+        "current_location": "Shadowkeep Stronghold"
+      },
+      {
+        "unit_name": "way",
+        "quantity": 48,
+        "experience": 289,
+        "current_location": "Citadel of the Eternal Flame"
+      },
+      {
+        "unit_name": "exactly",
+        "quantity": 92,
+        "experience": 309,
+        "current_location": "Citadel of the Eternal Flame"
+      }
+    ]
+  },
+  {
+    "hero_id": 19,
+    "hero_name": "stock",
+    "faction": "Inferno",
+    "level": 6,
+    "castle_location": "Stormwatch Tower",
+    "army": [
+      {
+        "unit_name": "couple",
+        "quantity": 74,
+        "experience": 300,
+        "current_location": "Citadel of the Eternal Flame"
+      },
+      {
+        "unit_name": "us",
+        "quantity": 71,
+        "experience": 7,
+        "current_location": "Castle Ironclad"
+      },
+      {
+        "unit_name": "mouth",
+        "quantity": 12,
+        "experience": 308,
+        "current_location": "Stormwatch Tower"
+      },
+      {
+        "unit_name": "attack",
+        "quantity": 61,
+        "experience": 183,
+        "current_location": "Castle Ironclad"
+      }
+    ]
+  },
+  {
+    "hero_id": 20,
+    "hero_name": "agreement",
+    "faction": "Fortress",
+    "level": 19,
+    "castle_location": "Citadel of the Eternal Flame",
+    "army": [
+      {
+        "unit_name": "admit",
+        "quantity": 36,
+        "experience": 182,
+        "current_location": "Shadowkeep Stronghold"
+      },
+      {
+        "unit_name": "travel",
+        "quantity": 44,
+        "experience": 360,
+        "current_location": "Stormwatch Tower"
+      },
+      {
+        "unit_name": "allow",
+        "quantity": 53,
+        "experience": 260,
+        "current_location": "Sylvan Grove Outpost"
+      }
+    ]
+  },
+  {
+    "hero_id": 21,
+    "hero_name": "onto",
+    "faction": "Inferno",
+    "level": 12,
+    "castle_location": "Sylvan Grove Outpost",
+    "army": [
+      {
+        "unit_name": "always",
+        "quantity": 65,
+        "experience": 333,
+        "current_location": "Stormwatch Tower"
+      },
+      {
+        "unit_name": "about",
+        "quantity": 83,
+        "experience": 279,
+        "current_location": "Castle Ironclad"
+      },
+      {
+        "unit_name": "more",
+        "quantity": 57,
+        "experience": 197,
+        "current_location": "Citadel of the Eternal Flame"
+      }
+    ]
+  },
+  {
+    "hero_id": 22,
+    "hero_name": "everything",
+    "faction": "Rampart",
+    "level": 14,
+    "castle_location": "Stormwatch Tower",
+    "army": [
+      {
+        "unit_name": "city",
+        "quantity": 16,
+        "experience": 40,
+        "current_location": "Sylvan Grove Outpost"
+      },
+      {
+        "unit_name": "style",
+        "quantity": 62,
+        "experience": 430,
+        "current_location": "Sylvan Grove Outpost"
+      },
+      {
+        "unit_name": "amount",
+        "quantity": 99,
+        "experience": 119,
+        "current_location": "Shadowkeep Stronghold"
+      }
+    ]
+  },
+  {
+    "hero_id": 23,
+    "hero_name": "again",
+    "faction": "Tower",
+    "level": 17,
+    "castle_location": "Stormwatch Tower",
+    "army": [
+      {
+        "unit_name": "week",
+        "quantity": 46,
+        "experience": 134,
+        "current_location": "Shadowkeep Stronghold"
+      },
+      {
+        "unit_name": "somebody",
+        "quantity": 89,
+        "experience": 183,
+        "current_location": "Stormwatch Tower"
+      },
+      {
+        "unit_name": "manage",
+        "quantity": 76,
+        "experience": 267,
+        "current_location": "Sylvan Grove Outpost"
+      },
+      {
+        "unit_name": "range",
+        "quantity": 27,
+        "experience": 101,
+        "current_location": "Castle Ironclad"
+      },
+      {
+        "unit_name": "science",
+        "quantity": 36,
+        "experience": 172,
+        "current_location": "Stormwatch Tower"
+      },
+      {
+        "unit_name": "surface",
+        "quantity": 39,
+        "experience": 312,
+        "current_location": "Sylvan Grove Outpost"
+      }
+    ]
+  },
+  {
+    "hero_id": 24,
+    "hero_name": "east",
+    "faction": "Inferno",
+    "level": 6,
+    "castle_location": "Sylvan Grove Outpost",
+    "army": [
+      {
+        "unit_name": "TV",
+        "quantity": 42,
+        "experience": 167,
+        "current_location": "Shadowkeep Stronghold"
+      },
+      {
+        "unit_name": "forget",
+        "quantity": 73,
+        "experience": 484,
+        "current_location": "Citadel of the Eternal Flame"
+      },
+      {
+        "unit_name": "group",
+        "quantity": 28,
+        "experience": 49,
+        "current_location": "Citadel of the Eternal Flame"
+      }
+    ]
+  },
+  {
+    "hero_id": 25,
+    "hero_name": "minute",
+    "faction": "Fortress",
+    "level": 19,
+    "castle_location": "Shadowkeep Stronghold",
+    "army": [
+      {
+        "unit_name": "cost",
+        "quantity": 61,
+        "experience": 132,
+        "current_location": "Sylvan Grove Outpost"
+      },
+      {
+        "unit_name": "Congress",
+        "quantity": 48,
+        "experience": 340,
+        "current_location": "Citadel of the Eternal Flame"
+      },
+      {
+        "unit_name": "see",
+        "quantity": 64,
+        "experience": 223,
+        "current_location": "Sylvan Grove Outpost"
+      },
+      {
+        "unit_name": "matter",
+        "quantity": 69,
+        "experience": 428,
+        "current_location": "Stormwatch Tower"
+      },
+      {
+        "unit_name": "finish",
+        "quantity": 43,
+        "experience": 482,
+        "current_location": "Citadel of the Eternal Flame"
+      },
+      {
+        "unit_name": "lot",
+        "quantity": 45,
+        "experience": 102,
+        "current_location": "Stormwatch Tower"
+      }
+    ]
+  }
+]
